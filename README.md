@@ -1,5 +1,5 @@
 # GettingAndCleaningData
-Coursera Peer graded course project for getting and cleaning data
+Coursera peer graded course project for getting and cleaning data.
 
 ## Included files
 * README.md - you're looking at it
